@@ -1,0 +1,10 @@
+BackTest/data/stk_fin_cashflow.feather filter=lfs diff=lfs merge=lfs -text
+BackTest/demo_signal_df.h5 filter=lfs diff=lfs merge=lfs -text
+BackTest/data/stk_daily.feather filter=lfs diff=lfs merge=lfs -text
+BackTest/data/stk_fin_balance.feather filter=lfs diff=lfs merge=lfs -text
+BackTest/data/data.h5 filter=lfs diff=lfs merge=lfs -text
+data/stk_fin_balance.feather filter=lfs diff=lfs merge=lfs -text
+data/stk_fin_cashflow.feather filter=lfs diff=lfs merge=lfs -text
+data/demo_signal_df.h5 filter=lfs diff=lfs merge=lfs -text
+data/stk_daily.feather filter=lfs diff=lfs merge=lfs -text
+data/data.h5 filter=lfs diff=lfs merge=lfs -text
