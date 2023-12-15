@@ -5,3 +5,7 @@ import feather
 import numpy as np
 import pandas as pd
 import os
+from BackTest.Preprocessing import update
+if not os.path.exists('./data/data.h5'):
+    update()
+
